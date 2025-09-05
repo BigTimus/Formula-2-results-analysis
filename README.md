@@ -20,4 +20,4 @@
 
 4) Matplotlib, Seaborn – для визуализации данных
 
-5) Scikit-learn – для машинного обучения 
+5) Scikit-learn, xgboost – для машинного обучения 
